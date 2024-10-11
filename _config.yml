@@ -7,7 +7,7 @@ lang: 'en'
 paginate: 5
 
 url: 'https://metasys.digital/api-landing'
-baseurl: '/api-landing/'
+baseurl: '/metasys-api-landing/'
 remote_theme: jci-metasys/jekyll-theme-prettydocs
 pre_release: false
 
