@@ -3,11 +3,11 @@ title: 'Metasys&reg; API'
 paginate_path: content/page-:num/
 permalink: /:path/:basename:output_ext
 force-https: True
-lang: "en"
+lang: 'en'
 paginate: 5
 
-url: "https://jci-metasys.github.io/api-landing"
-baseurl: "/api-landing/"
+url: 'https://metasys.digital/api-landing'
+baseurl: '/api-landing/'
 remote_theme: jci-metasys/jekyll-theme-prettydocs
 pre_release: false
 
@@ -18,31 +18,30 @@ pre_release: false
 # pre_release: true
 
 # Build Settings
-github:             [metadata]
-encoding:           UTF-8
-markdown:           kramdown
-highlighter:        rouge
+github: [metadata]
+encoding: UTF-8
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  input:            GFM
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
   syntax_highlighter_opts:
-    disable : true
+    disable: true
 
 # Enable minification SASS
 sass:
-  sass_dir:         assets/css
-  style:            compressed
+  sass_dir: assets/css
+  style: compressed
 
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
