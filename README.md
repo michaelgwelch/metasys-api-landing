@@ -5,7 +5,7 @@
 <!-- cSpell:ignore apiaryio automagically test -->
 
 The landing page for the
-[Metasys Server API Documentation](https://jci-metasys.github.io/api-landing)
+[Metasys Server API Documentation](https://metasys.digital)
 
 ## Contributing
 

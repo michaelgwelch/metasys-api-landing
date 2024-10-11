@@ -54,7 +54,7 @@ The list of changes to the API for each version are listed below.
 
 These represent **Breaking Changes**.
 
-- Alarms  
+- Alarms
   - List alarms - (`GET /alarms`)
 - Audits
   - List audits - (`GET /audits`)
@@ -86,7 +86,7 @@ The replacement for these endpoints is `GET /activities?activityType=[alarm|audi
 
 - Objects
   - Get object id (`GET /objectIdentifiers?fqr=`)
-- Alarms  
+- Alarms
   - List alarms - (`GET /alarms`)
 - Audits
   - List audits - (`GET /audits`)
@@ -264,7 +264,7 @@ The following operations are still supported but they are deprecated.
 
 #### Added
 
-- [API version 3 release documentation](https://jci-metasys.github.io/api-landing/api/v3/#)
+- [API version 3 release documentation](https://metasys.digital/api/v3/#)
   with Metasys 11.0
 
 - Audits
@@ -347,7 +347,7 @@ The following operations are still supported but they are deprecated.
 
 #### Added
 
-- [API version 2 release documentation](https://jci-metasys.github.io/api-landing/api/v2/#)
+- [API version 2 release documentation](https://metasys.digital/api/v2/#)
   with Metasys 10.1
 - Objects
   - Lookup object ID
@@ -379,7 +379,7 @@ The following operations are still supported but they are deprecated.
 #### Added
 
 - Initial
-  [API version 1 release documentation](https://jci-metasys.github.io/api-landing/api/v1/#)
+  [API version 1 release documentation](https://metasys.digital/api/v1/#)
   with Metasys 10.0
 - Alarms
   - Get alarms
